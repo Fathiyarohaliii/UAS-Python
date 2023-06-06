@@ -1,4 +1,5 @@
 # UAS-Python
+Link Tugas : https://youtu.be/LbMC7-oK3x0  
 NAMA ANGGOTA : 
   1. Ulfa Novianda 20.01.013.042
   2. Ananda Fajriansyah 20.01.013.044
